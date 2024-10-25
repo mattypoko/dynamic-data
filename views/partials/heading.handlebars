@@ -1,0 +1,8 @@
+{{!-- This #if is a helper to evaluate if the variable or expression exists --}}
+{{#if data.image}}
+<img class="hero img-fluid" src="{{data.image}}" alt="">
+{{/if}}
+<p class="spacer">{{data.spacer}}</p>
+<h1 class="primary-heading">{{data.title}}</h1>
+<h1 class="quote-heading font-italic">{{data.quote}}</h1>
+<p class="abstract">{{data.abstract}}</p>

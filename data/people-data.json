@@ -1,0 +1,88 @@
+{
+    "image":"/images/gallery/13.jpg",
+    "spacer":"",
+    "title":"The Midwestern Charm",
+    "abstract":"Wisconsinites are known for their friendly, down-to-earth nature and a strong sense of community. With a rich mix of cultures, including Native American, German, Polish, and Scandinavian influences, the state's residents embody a warm Midwestern charm. They take pride in their local traditions, from cheese-making and brewing to tailgating at Packers games. You’ll often find them enjoying outdoor activities, embracing the changing seasons, and sharing stories over a good meal—often featuring the state’s famous cheese and bratwurst. Wisconsinites have a unique penchant for the phrase \"Ope!\"—an endearing expression used when they bump into someone. This blend of hospitality, humor, and a love for the outdoors makes Wisconsin a truly special place to visit.",
+    "services":[
+        {
+            "title":"Cultural Arts and Events Wisconsin",
+            "intro":"A statewide organization promoting the arts, music, and cultural events in Wisconsin.",
+            "list":[
+                "Offers a calendar of cultural events, festivals, and performances.",
+                "Supports local artists with grants and showcases.",
+                "Provides information on arts programs and workshops."
+            ]
+        },
+        {
+            "title":"Wisconsin Folk Museum",
+            "intro":"Dedicated to preserving and showcasing the traditional arts and crafts of Wisconsin's diverse communities.",
+            "list":[
+                "Offers interactive exhibits on local folk art.",
+                "Hosts craft workshops and demonstrations.",
+                "Organizes cultural festivals celebrating local heritage."
+            ]
+        },
+        {
+            "title":"Multicultural Center of Wisconsin",
+            "intro":"A center promoting cultural exchange and understanding through events and education programs.",
+            "list":[
+                "Provides language classes and cultural competency workshops.",
+                "Hosts events that celebrate Wisconsin’s diverse ethnic communities.",
+                "Partners with local organizations to support cultural initiatives."
+            ]
+        },
+        {
+            "title":"Wisconsin Humanities Council",
+            "intro":"Supports public programs that explore the humanities and enrich cultural understanding across Wisconsin.",
+            "list":[
+                "Offers grants to fund community-based humanities projects.",
+                "Organizes public forums, lectures, and discussions.",
+                "Collaborates with libraries, museums, and schools on educational initiatives."
+            ]
+        }
+    ],
+    "packages":[
+        {
+            "title":"Wisconsin Barn Quilt Trail",
+            "description":"Follow the colorful Barn Quilt Trail through rural Wisconsin and learn about the history behind each vibrant quilt design.",
+            "image":"/images/13.jpg",
+            "price":"0",
+            "duration":"2 hours"
+        },
+        {
+            "title":"German Fest Milwaukee",
+            "description":"Celebrate Wisconsin’s German heritage with traditional food, music, and dance at the largest German festival in the Midwest.",
+            "image":"/images/14.jpg",
+            "price":"10 per person",
+            "duration":"1 day"
+        },
+        {
+            "title":"The Hmong Culture and Food Experience",
+            "description":"Discover the Hmong community's contribution to Wisconsin with a cultural tour and traditional Hmong meal.",
+            "image":"/images/15.jpg",
+            "price":"35 per person",
+            "duration":"3 hours"
+        },
+        {
+            "title":"Scandinavian Heritage Days",
+            "description":"Enjoy a festival celebrating Wisconsin’s Scandinavian roots with folk dances, Viking reenactments, and local cuisine.",
+            "image":"/images/16.jpg",
+            "price":"15 per person",
+            "duration":"4 hours"
+        },
+        {
+            "title":"Frank Lloyd Wright Architecture Tour",
+            "description":"Explore the iconic architectural designs of Frank Lloyd Wright, a Wisconsin native, with a tour of some of his most famous works.",
+            "image":"/images/17.webp",
+            "price":"50 per person",
+            "duration":"4 hours"
+        },
+        {
+            "title":"Native Pow Wow Event",
+            "description":"Experience the vibrant sights and sounds of a traditional Native American Pow Wow, featuring dance competitions, drum circles, and craft vendors.",
+            "image":"/images/18.webp",
+            "price":"25 per person",
+            "duration":"5 hours"
+        }
+    ]
+}

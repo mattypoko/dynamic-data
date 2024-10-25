@@ -1,0 +1,88 @@
+{
+    "image":"/images/gallery/3.jpg",
+    "spacer":"",
+    "title":"Must-See Attractions",
+    "abstract":"Wisconsin is home to a plethora of famous attractions that draw visitors from near and far. The breathtaking natural beauty of the Apostle Islands, with their stunning sea caves, is a must-see for outdoor enthusiasts. In Milwaukee, the iconic Harley-Davidson Museum celebrates the city’s rich motorcycle history, while the Milwaukee Art Museum, with its striking architecture, showcases impressive collections. Madison, the state capital, is known for its vibrant university atmosphere and the historic State Capitol building. Additionally, the Wisconsin Dells, often called the \"Waterpark Capital of the World,\" offers thrilling water attractions for families. Don’t forget to visit locals like the beloved cheesehead, a nod to Wisconsin’s cheese-making heritage, or meet the legendary Paul Bunyan, whose larger-than-life stories are woven into the state’s folklore. These attractions and cultural icons capture the heart and spirit of Wisconsin, making it an unforgettable destination.",
+    "services":[
+        {
+            "title":"Wisconsin State Park Services",
+            "intro":"A statewide service managing camping, hiking, and outdoor recreation at Wisconsin's 60+ state parks.",
+            "list":[
+                "Offers online reservations for campgrounds and cabins.",
+                "Provides maps and park information for visitors.",
+                "Organizes guided tours, nature walks, and interpretive programs."
+            ]
+        },
+        {
+            "title":"Adventure Wisconsin Outfitters",
+            "intro":"A private company offering guided outdoor adventures like kayaking, rock climbing, and zip-lining.",
+            "list":[
+                "Provides all necessary equipment and safety gear.",
+                "Offers customizable adventure packages.",
+                "Employs expert guides with in-depth knowledge of Wisconsin's terrain."
+            ]
+        },
+        {
+            "title":"Wisconsin Wildlife and Nature Tours",
+            "intro":"Specialized tours exploring the state's unique wildlife, including birdwatching, wildlife photography, and eco-tours.",
+            "list":[
+                "Led by knowledgeable naturalists and wildlife experts.",
+                "Provides transportation to remote wildlife viewing areas.",
+                "Offers both day tours and multi-day excursions."
+            ]
+        },
+        {
+            "title":"Great Lakes Charters",
+            "intro":"Experience the Great Lakes with charter services offering fishing, sailing, and sightseeing trips.",
+            "list":[
+                "Provides equipment and licenses for fishing charters.",
+                "Offers sunset cruises and lake tours for sightseeing.",
+                "Private and group charters available for all skill levels."
+            ]
+        }
+    ],
+    "packages":[
+        {
+            "title":"Wisconsin Dells Waterparks",
+            "description":"Dive into fun at one of Wisconsin’s famous waterparks, featuring waterslides, lazy rivers, and wave pools.",
+            "image":"/images/19.jpg",
+            "price":"60 per person",
+            "duration":"1 day"
+        },
+        {
+            "title":"The House on the Rock",
+            "description":"Explore this eccentric architectural masterpiece and its bizarre collections, from giant sculptures to the world’s largest indoor carousel.",
+            "image":"/images/20.jpg",
+            "price":"30 per person",
+            "duration":"3 hours"
+        },
+        {
+            "title":"Apostle Islands National Lakeshore Kayaking",
+            "description":"Paddle through crystal-clear waters and explore the sea caves of Apostle Islands with a guided kayaking tour.",
+            "image":"/images/21.jpg",
+            "price":"75 per person",
+            "duration":"4 hours"
+        },
+        {
+            "title":"Devil’s Lake State Park Climbing Adventure",
+            "description":"Scale the cliffs of Devil’s Lake with experienced guides in one of Wisconsin’s most beautiful state parks.",
+            "image":"/images/22.jpg",
+            "price":"85 per person",
+            "duration":"5 hours"
+        },
+        {
+            "title":"Lambeau Field Stadium Tour",
+            "description":"Go behind the scenes at Lambeau Field, home of the Green Bay Packers, with access to the field, locker rooms, and the Packers Hall of Fame.",
+            "image":"/images/23.jpg",
+            "price":"40 per person",
+            "duration":"1.5 hours"
+        },
+        {
+            "title":"Ice Age Trail Hiking Tour",
+            "description":"Hike a portion of the 1,200-mile Ice Age Trail and discover the landscapes shaped by ancient glaciers.",
+            "image":"/images/24.jpg",
+            "price":"35 per person",
+            "duration":"3 hours"
+        }
+    ]
+}

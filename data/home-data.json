@@ -1,0 +1,87 @@
+{
+    "spacer":"",
+    "title":"Welcome to Wisconsin!",
+    "abstract":"...the Badger State, where stunning natural landscapes meet vibrant cities and rich cultural experiences. From the picturesque shores of Lake Michigan to the rolling hills of the Driftless Area, Wisconsin offers a diverse array of adventures for every traveler. Explore charming small towns, indulge in world-class cheese and craft beer, and immerse yourself in the warmth of Midwestern hospitality. Whether you're seeking outdoor thrills or cultural gems, Wisconsin promises unforgettable memories at every turn.",
+    "services":[
+        {
+            "title":"State Tourism Office",
+            "intro":"Your go-to resource for all travel information, from accommodation to transportation, across Wisconsin.",
+            "list":[
+                "Provides brochures, maps, and travel guides.",
+                "Helps plan customized itineraries.",
+                "Offers seasonal travel tips and updates."
+            ]
+        },
+        {
+            "title":"Welcome Centers",
+            "intro":"Located along major highways, these centers offer visitors a place to rest and gather information on local attractions.",
+            "list":[
+                "Free travel brochures and maps available.",
+                "Staffed by local experts ready to answer questions.",
+                "Facilities include restrooms and picnic areas."
+            ]
+        },
+        {
+            "title":"Wisconsin Department of Natural Resources (DNR)",
+            "intro":"The DNR manages Wisconsin's parks, forests, and outdoor recreational opportunities.",
+            "list":[
+                "Issues permits for camping, hunting, and fishing.",
+                "Provides maps and guides to state parks and trails.",
+                "Organizes nature conservation programs and activities."
+            ]
+        },
+        {
+            "title":"Public Transit Systems",
+            "intro":"Public transportation networks across the state, connecting cities and rural areas.",
+            "list":[
+                "Bus and rail services available in major cities like Madison and Milwaukee.",
+                "Eco-friendly transportation options, including bike-sharing programs.",
+                "Affordable and accessible transportation for all travelers."
+            ]
+        }
+    ],
+    "packages":[
+        {
+            "title":"Lake Michigan Sunset Cruise",
+            "description":"Sail across Lake Michigan while enjoying breathtaking views of the Wisconsin coastline during sunset.",
+            "image":"/images/1.jpg",
+            "price":"65 per person",
+            "duration":"2 hours"
+        },
+        {
+            "title":"The Wisconsin Wilderness Hike",
+            "description":"A guided tour through Wisconsin's scenic state parks, offering visitors a close encounter with the state's natural beauty.",
+            "image":"/images/2.jpg",
+            "price":"40 per person",
+            "duration":"4 hours"
+        },
+        {
+            "title":"Madison Farmers Market Tour",
+            "description":"Explore one of the largest farmers' markets in the U.S. with a local guide who introduces you to Wisconsin's fresh produce and artisanal goods.",
+            "image":"/images/3.jpg",
+            "price":"25 per person",
+            "duration":"1.5 hours"
+        },
+        {
+            "title":"Dells Riverboat Adventure",
+            "description":"Experience the famous Wisconsin Dells with a thrilling riverboat ride through towering rock formations and lush landscapes.",
+            "image":"/images/4.jpg",
+            "price":"55 per person",
+            "duration":"3 hours"
+        },
+        {
+            "title":"Cheese & Dairy Tasting Tour",
+            "description":"Visit a local Wisconsin dairy farm to learn about cheese-making and sample award-winning cheeses.",
+            "image":"/images/5.webp",
+            "price":"30 per person",
+            "duration":"2 hours"
+        },
+        {
+            "title":"Winter Wonderland Snowshoeing",
+            "description":"Discover the serene beauty of Wisconsin's snowy forests with a guided snowshoeing expedition.",
+            "image":"/images/6.jpg",
+            "price":"45 per person",
+            "duration":"2.5 hours"
+        }
+    ]
+}

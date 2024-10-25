@@ -1,0 +1,88 @@
+{
+    "image":"/images/gallery/10.jpg",
+    "spacer":"",
+    "quote":"\"On, Wisconsin!\"",
+    "abstract":"Wisconsin's journey to statehood began in the early 19th century when it was inhabited by Native American tribes and later explored by European settlers. It became part of the Northwest Territory in 1787 and was designated as a separate territory in 1836. After years of growth and development, Wisconsin was officially admitted to the Union as the 30th state on May 29, 1848. This rich history of resilience and community spirit is still evident today, as Wisconsin celebrates its diverse cultural heritage and embraces innovation. Modern-day Wisconsin thrives as a hub of industry, agriculture, and the arts, inviting visitors to explore both its storied past and vibrant present.",
+    "services":[
+        {
+            "title":"Wisconsin Historical Society",
+            "intro":"A resource for exploring Wisconsin's rich past through archives, libraries, and museum exhibits.",
+            "list":[
+                "Offers access to historical documents, photographs, and maps.",
+                "Hosts educational workshops and events.",
+                "Provides research services for genealogists and historians."
+            ]
+        },
+        {
+            "title":"Historical Preservation Services",
+            "intro":"Helps preserve Wisconsin's historic buildings and landmarks for future generations.",
+            "list":[
+                "Offers grants for restoration projects.",
+                "Provides expert consultation on preserving heritage sites.",
+                "Coordinates local and state-wide preservation efforts."
+            ]
+        },
+        {
+            "title":"Guided Historical Tours of Wisconsin",
+            "intro":"Discover Wisconsin’s history through organized tours of key historical sites and museums.",
+            "list":[
+                "Features specialized tours, including Native American, Civil War, and Industrial Revolution themes.",
+                "Available year-round, with options for private or group bookings.",
+                "Provides transportation and expert historical narrators."
+            ]
+        },
+        {
+            "title":"Milwaukee County Historical Society",
+            "intro":"Explore the history of Milwaukee and surrounding areas through its archives and exhibits.",
+            "list":[
+                "Provides access to local records, photographs, and artifacts.",
+                "Offers school and group educational programs.",
+                "Hosts seasonal historical exhibitions and lectures."
+            ]
+        }
+    ],
+    "packages":[
+        {
+            "title":"Old World Wisconsin Village Tour",
+            "description":"Step back in time with a tour of a recreated 19th-century Wisconsin village, complete with historical demonstrations.",
+            "image":"/images/7.jpg",
+            "price":"20 per person",
+            "duration":"3 hours"
+        },
+        {
+            "title":"Native American Heritage Experience",
+            "description":"Learn about the rich Native American history of Wisconsin with guided tours of sacred sites and cultural demonstrations.",
+            "image":"/images/8.jpg",
+            "price":"50 per person",
+            "duration":"4 hours"
+        },
+        {
+            "title":"Pabst Mansion Tour",
+            "description":"Explore the historic Pabst Mansion in Milwaukee, home to the famous beer baron Frederick Pabst, featuring stunning architecture and historical artifacts.",
+            "image":"/images/9.jpg",
+            "price":"15 per person",
+            "duration":"1 hour"
+        },
+        {
+            "title":"Civil War Encampment",
+            "description":"Immerse yourself in Wisconsin’s Civil War history with live reenactments, weapon demonstrations, and historical exhibits.",
+            "image":"/images/10.jpg",
+            "price":"35 per person",
+            "duration":"3 hours"
+        },
+        {
+            "title":"Milwaukee Art Museum History Tour",
+            "description":"Discover the history behind one of the state’s most iconic museums, including its architectural design and art collection.",
+            "image":"/images/11.jpg",
+            "price":"25 per person",
+            "duration":"2 hours"
+        },
+        {
+            "title":"Wisconsin Maritime Museum",
+            "description":"A tour through the rich maritime history of the Great Lakes, including a visit to the USS Cobia submarine.",
+            "image":"/images/12.jpg",
+            "price":"40 per person",
+            "duration":"2.5 hours"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+/* Target elements using class */
+.badger-red-bg {
+    background-color: #C5050C;
+}
+.badger-pattern-bg {
+    background-image: url(/images/pattern.png);
+}
+
+.nav-item a {
+    color: white !important;
+}
+
+.navbar {
+    position: relative;
+    font-size: 18px !important;
+}
+
+.navbar-brand {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    display: block;
+}
+
+.navbar-toggler:focus {
+    /* box-shadow: 4px 4px #9B0000, -4px -4px #9B0000, 4px -4px #9B0000, -4px 4px #9B0000 */ box-shadow: 0 0 0 0;
+}
+
+.custom-toggler.navbar-toggler {
+    border-color: white;
+    border-width: 2.5px;
+}
+
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(255, 255, 255, 1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2.5' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+}
+
+.card-img-top {
+    aspect-ratio: 4/3;
+    object-fit: cover;
+}
+
+body {
+    font-family:'Lucida Grande';
+}

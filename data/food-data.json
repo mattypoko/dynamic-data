@@ -1,0 +1,88 @@
+{
+    "image":"/images/gallery/2.jpg",
+    "spacer":"",
+    "title":"The Best Cheese in Town",
+    "abstract":"Wisconsin's cuisine is a delicious reflection of its rich cultural heritage, heavily influenced by German, Polish, and Scandinavian traditions. Known as the Dairy State, Wisconsin takes pride in its world-class cheese, with favorites like cheddar, Gouda, and blue cheese featuring prominently in local dishes. Don’t miss trying a classic bratwurst, often grilled to perfection and served with sauerkraut, or indulge in a buttery fish fry—an age-old Friday tradition. For a true taste of Wisconsin, head to Milwaukee for the famous Milwaukee-style pizza, or explore Madison’s vibrant food scene with its farm-to-table eateries. Savor a slice of \"Kringle,\" a flaky pastry filled with fruit or nuts, or visit a local cheese shop for a curated tasting. Whether you're dining at a cozy supper club or sampling street food at a festival, Wisconsin’s culinary delights are sure to satisfy every palate.",
+    "services":[
+        {
+            "title":"Wisconsin Culinary Tours",
+            "intro":"Organized food tours highlighting Wisconsin’s rich culinary heritage, from cheese to bratwurst.",
+            "list":[
+                "Guided tours of local farms, breweries, and artisanal food producers.",
+                "Small group tours, including tastings and behind-the-scenes experiences.",
+                "Offers seasonal tours like autumn harvest and winter holiday food events."
+            ]
+        },
+        {
+            "title":"Farm-to-Table Dining Wisconsin",
+            "intro":"An initiative connecting restaurants and farms to promote fresh, locally-sourced meals across the state.",
+            "list":[
+                "Lists restaurants offering seasonal, farm-fresh menus.",
+                "Collaborates with local farms to ensure sustainable sourcing.",
+                "Provides dining guides for visitors looking for authentic farm-to-table experiences."
+            ]
+        },
+        {
+            "title":"Wisconsin Cheese Trail Services",
+            "intro":"A comprehensive guide to touring the best cheese factories, creameries, and cheese shops in Wisconsin.",
+            "list":[
+                "Offers a detailed map and itinerary of stops along the trail.",
+                "Organizes tours, tastings, and cheese-making workshops.",
+                "Provides transportation options for full-day tours."
+            ]
+        },
+        {
+            "title":"Breweries of Wisconsin Tour Service",
+            "intro":"Explore the rich brewing history of Wisconsin with guided tours of its top breweries and beer tastings.",
+            "list":[
+                "Customizable brewery tour packages across the state.",
+                "Includes transportation, tastings, and brewery tours.",
+                "Offers specialized tours focusing on craft, micro, and historic breweries."
+            ]
+        }
+    ],
+    "packages":[
+        {
+            "title":"Milwaukee Beer and Bratwurst Tasting",
+            "description":"Savor Wisconsin's iconic bratwurst and beer with a guided tasting tour through some of Milwaukee's top breweries.",
+            "image":"/images/25.jpg",
+            "price":"45 per person",
+            "duration":"2 hours"
+        },
+        {
+            "title":"Door County Fish Boil Dinner",
+            "description":"Enjoy a traditional fish boil on the shores of Door County, where fresh whitefish is cooked over an open fire.",
+            "image":"/images/26.jpg",
+            "price":"30 per person",
+            "duration":"1.5 hours"
+        },
+        {
+            "title":"Wisconsin Cheese Factory Tour",
+            "description":"Visit a local cheese factory to learn about Wisconsin’s renowned cheese-making process and sample a variety of fresh cheeses.",
+            "image":"/images/27.jpg",
+            "price":"25 per person",
+            "duration":"1 hour"
+        },
+        {
+            "title":"Cranberry Harvest Tour",
+            "description":"Explore a working cranberry farm and witness the harvest of one of Wisconsin's most famous crops.",
+            "image":"/images/28.jpg",
+            "price":"20 per person",
+            "duration":"1.5 hours"
+        },
+        {
+            "title":"Madison Food Truck Festival",
+            "description":"Indulge in the diverse culinary offerings of Madison's food truck scene, featuring local and international flavors.",
+            "image":"/images/29.jpg",
+            "price":"5 per entry",
+            "duration":"4 hours"
+        },
+        {
+            "title":"Chocolate Factory Tour in Burlington",
+            "description":"Take a behind-the-scenes tour of a famous chocolate factory in Burlington, where you can sample handmade chocolates and sweets.",
+            "image":"/images/30.jpg",
+            "price":"15 per person",
+            "duration":"1 hour"
+        }
+    ]
+}

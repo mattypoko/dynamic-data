@@ -1,0 +1,17 @@
+<html>
+<body>
+<video class="video" width="100%" height="100%" autoplay muted loop>
+    <source src="/images/milwaukee.mp4" type="video/mp4">
+</video>
+</body>
+</html>
+
+{{>heading}}
+{{!-- Add the services partial --}}
+{{#if data.services}}
+    {{>services}}
+{{/if}}
+{{!-- Add the packages partial --}}
+{{#if data.packages}}
+    {{>packages}}
+{{/if}}
