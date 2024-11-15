@@ -1,0 +1,13 @@
+<form action="">
+
+{{#each data.fields }}
+  <div class="mb-3">
+    <label for="{{this.name}}" class="form-label">{{this.value}}</label>
+    <input type="{{this.type}}" name="{{this.name}}" class="form-control" id="{{this.name}}">
+  </div>
+{{/each}}
+
+  <button type="submit" class="btn btn-primary">Go Mad!</button>
+
+
+</form>
