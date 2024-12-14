@@ -1,0 +1,14 @@
+<img src="{{data.banner}}" class="banner"><br>
+
+{{#each data.products}}
+<div class="row">
+  <div class="column_category">
+    <img src="{{this.image}}" style="width:100%">
+  </div>
+  <div class="column_category">
+    <h3>{{this.name}}</h3>
+    <h6>${{this.price}}</h6>
+    <a href="/{{this.category}}/details/{{this.id}}">View product details</a>
+  </div><br>
+</div>
+{{/each}}

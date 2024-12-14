@@ -1,0 +1,72 @@
+{
+    "title":"Your home for gaming.",
+    "abstract":"Get your joysticks ready, because this website is the perfect place to buy all of the latest games available on the market.",
+    "item_slideshow":[
+        {
+            "image": "/images/111.webp",
+            "link":"/1/details/1"
+        },
+        {
+            "image": "/images/171.jpg",
+            "link":"/1/details/7"
+        },
+        {
+            "image": "/images/221.png",
+            "link":"/2/details/2"
+        },
+        {
+            "image": "/images/281.jpg",
+            "link":"/2/details/8"
+        },
+        {
+            "image": "/images/351.jpg",
+            "link":"/3/details/5"
+        },
+        {
+            "image": "/images/361.png",
+            "link":"/3/details/6"
+        }
+    ],
+    "heading1":"Featured Products",
+    "featured_products":[
+        {
+            "image":"/images/gallery/121.jpg",
+            "link":"/1/details/2"
+        },
+        {
+            "image":"/images/gallery/141.jpg",
+            "link":"/1/details/4"
+        },
+        {
+            "image":"/images/gallery/261.jpg",
+            "link":"/2/details/6"
+        },
+        {
+            "image":"/images/gallery/2A1.jpg",
+            "link":"/2/details/10"
+        },
+        {
+            "image":"/images/gallery/341.jpg",
+            "link":"/3/details/4"
+        },
+        {
+            "image":"/images/gallery/3A1.jpg",
+            "link":"/3/details/10"
+        }
+    ],
+    "heading2":"Featured Categories",
+    "categories": [
+        {
+            "url":"/images/action_c.png",
+            "category": "1"
+        },
+        {
+            "url":"/images/adventure_c.png",
+            "category": "2"
+        },
+        {
+            "url":"/images/rpg_c.png",
+            "category": "3"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{{!-- .row class is from bootstrap's grid  --}}
+<div class="row gallery">
+{{!-- our image loop will iterate the list of images from /data/gallery.json --}}
+{{#each data.categories }}
+<div class="column_category">
+   <a href="/{{this.category}}"><img class="img-fluid" src="{{this.url}}"></a>
+</div>
+{{/each}}
+</div>

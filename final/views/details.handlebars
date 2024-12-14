@@ -1,0 +1,39 @@
+{{#each data.products}}
+<img class="banner" src="{{this.image}}" alt="">
+
+<div class="row">
+  <div class="column_gallery">
+    <img src="{{this.gallery1}}" style="width:100%">
+  </div>
+  <div class="column_gallery">
+    <img src="{{this.gallery2}}" style="width:100%">
+  </div>
+  <div class="column_gallery">
+    <img src="{{this.gallery3}}" style="width:100%">
+  </div>
+  <div class="column_gallery">
+    <img src="{{this.gallery4}}" style="width:100%">
+  </div>
+</div><br>
+
+<h1>{{this.name}} • ${{this.price}}</h1>
+<h5>{{this.description}}</h5>
+{{>addcart}}<br>
+<h6>Related products:</h6>
+
+<div class="row">
+  <div class="column_related">
+    <img src="{{this.related1}}" style="width:100%">
+  </div>
+  <div class="column_related">
+    <img src="{{this.related2}}" style="width:100%">
+  </div>
+  <div class="column_related">
+    <img src="{{this.related3}}" style="width:100%">
+  </div>
+  <div class="column_related">
+    <img src="{{this.related4}}" style="width:100%">
+  </div>
+</div><br>
+
+{{/each}}
